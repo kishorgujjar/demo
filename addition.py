@@ -5,4 +5,3 @@ d = a*b
 
 print("total number of additon:-", c)
 print("total number of multification:-", d)
-
